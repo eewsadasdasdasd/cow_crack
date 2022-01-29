@@ -35,7 +35,7 @@ python run.py
 </tr>
 </table>
 <h1>Hasil</h1>
-<imgs src="img/Screenshot_20220129-151655_Termux.jpg">
+<img src="img/Screenshot_20220129-151655_Termux.jpg">
 <h1>credits</h1>
 <li>Yayan-XD and Friends. </li>
 <li>Tim offline python sukabumi</li>
