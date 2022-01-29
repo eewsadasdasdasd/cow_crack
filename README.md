@@ -34,5 +34,6 @@ python run.py
 <td>Sampai tools mokad</td>
 </tr>
 </table>
-<h1>thanks to</h1>
-<li> Yayan-XD and Friends. </li>
+<h1>credits</h1>
+<li>Yayan-XD and Friends. </li>
+<li>Tim offline python sukabumi</li>
