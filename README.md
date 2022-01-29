@@ -4,7 +4,7 @@ a tool to "crack" facebook account.
 ```BASH
 pkg install git
 pkg install python
-pip install requests bs4 cython
+python3 -m pip install -r requirements.txt
 ```
 ## clone
 ```BASH
