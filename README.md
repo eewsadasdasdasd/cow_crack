@@ -4,7 +4,6 @@ a tool to "crack" facebook account.
 ```BASH
 pkg install git
 pkg install python
-python3 -m pip install -r requirements.txt
 ```
 ## clone
 ```BASH
@@ -12,6 +11,8 @@ git clone https://github.com/Latip176/cow_crack
 ```
 ## setup
 ```BASH
+cd cow_crack
+python3 -m pip install -r requirements.txt
 python setup.py build_ext --inplace
 ```
 # running
