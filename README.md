@@ -34,6 +34,8 @@ python run.py
 <td>Sampai tools mokad</td>
 </tr>
 </table>
+<h1>Hasil</h1>
+<imgs src="img/Screenshot_20220129-151655_Termux.jpg">
 <h1>credits</h1>
 <li>Yayan-XD and Friends. </li>
 <li>Tim offline python sukabumi</li>
