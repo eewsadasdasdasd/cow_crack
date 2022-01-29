@@ -3,7 +3,7 @@
 
 """
 
-Copyright © 2021 - 2023 | Latip176
+Copyright © 2021 - 2023 | Latip176 and Yayan XD
 Semua codingan dibuat oleh Latip176. and Yayan XD
 
 """
