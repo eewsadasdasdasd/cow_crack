@@ -27,10 +27,10 @@ python run.py
 </tr>
 <tr>
 <td>20.000</td>
-<td>40.000</td>
+<td>1 Bulan</td>
 </tr>
 <tr>
-<td>1 Bulan</td>
+<td>40.000</td>
 <td>Sampai tools mokad</td>
 </tr>
 </table>
