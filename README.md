@@ -27,11 +27,11 @@ python run.py
 <th>Duraction</th>
 </tr>
 <tr>
-<td>20.000</td>
+<td>40.000</td>
 <td>1 Bulan</td>
 </tr>
 <tr>
-<td>40.000</td>
+<td>80.000</td>
 <td>Sampai tools mokad</td>
 </tr>
 </table>
