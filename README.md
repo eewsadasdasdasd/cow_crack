@@ -17,7 +17,7 @@ python setup.py build_ext --inplace
 ```
 # running
 ```BASH
-cd cow_crack
+cd $HOME/cow_crack
 python run.py
 ```
 # license price information
