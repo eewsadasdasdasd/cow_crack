@@ -1,6 +1,6 @@
 # info
 a tool to "crack" facebook account.
-# install
+# install packpages
 ```BASH
 pkg install git
 pkg install python
